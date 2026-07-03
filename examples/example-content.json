@@ -1,0 +1,76 @@
+{
+  "personal": {
+    "name": "Chen Yiran",
+    "email": "chenyiran@university.edu",
+    "phone": "+86 138 0000 0000"
+  },
+  "education": [
+    {
+      "university": "Zhejiang University",
+      "location": "Hangzhou, China",
+      "degree": "BSc in Statistics",
+      "date": "Expected: June 2026",
+      "gpa": "3.72/4.0",
+      "ranking": "Top 12%",
+      "coursework": [
+        "Advanced Statistics",
+        "Probability Theory",
+        "Machine Learning",
+        "Database Systems"
+      ],
+      "honors": [
+        "University Merit Scholarship, 2024"
+      ]
+    }
+  ],
+  "professional_experience": [
+    {
+      "organization": "ABC Consulting",
+      "location": "Shanghai, China",
+      "role": "Data Analyst Intern",
+      "date": "June 2025 - August 2025",
+      "bullets": [
+        "Collected and organized competitor information for a retail consulting project, supporting market landscape analysis for the client team.",
+        "Analyzed sales records using Excel and SQL to identify product-level performance patterns and customer purchasing trends.",
+        "Created data visualizations in Tableau and Excel to communicate key findings for the final client report.",
+        "Participated in a client meeting and supported the preparation of analytical materials for business decision-making."
+      ]
+    }
+  ],
+  "academic_experience": [
+    {
+      "project": "Consumer Purchase Intention Research Project",
+      "location": "Hangzhou, China",
+      "role": "Researcher",
+      "date": "February 2025 - May 2025",
+      "bullets": [
+        "Designed a questionnaire-based study to examine factors influencing consumer purchase intention, collecting 312 valid responses for analysis.",
+        "Conducted regression analysis using SPSS to evaluate the effects of perceived usefulness and trust on consumer decision-making.",
+        "Reviewed academic literature on consumer behavior and synthesized key theoretical frameworks to support the research design.",
+        "Prepared the data analysis section of the final report, identifying statistically significant factors relevant to business analytics applications."
+      ]
+    }
+  ],
+  "skills_awards": {
+    "Technical Skills": [
+      "Python",
+      "SQL",
+      "SPSS",
+      "Excel",
+      "Tableau"
+    ],
+    "Research & Analytical Skills": [
+      "Regression analysis",
+      "Survey design",
+      "Data visualization",
+      "Statistical modelling"
+    ],
+    "Language Skills": [
+      "IELTS 7.5"
+    ],
+    "Awards": [
+      "University Merit Scholarship, 2024"
+    ]
+  }
+}
+
